@@ -1,2 +1,1 @@
-# LIBRAS_Recongtion
- 
+# LIBRAS_Recognition
